@@ -182,6 +182,8 @@ def main() -> None:
         cache["rows"] = {}
 
     test_df = pd.read_csv(args.test_csv)
+    if args.limit is not None:
+        test_df = test_df.head(args.limit)
     total = len(test_df)
     new_count = 0
 

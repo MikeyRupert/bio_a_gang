@@ -1,0 +1,3 @@
+# Track A (BAML) -- prompt from baml_src/track_a.baml
+# Model: gpt-oss:20b
+# Client: GPT (openai-generic @ http://localhost:11434/v1)

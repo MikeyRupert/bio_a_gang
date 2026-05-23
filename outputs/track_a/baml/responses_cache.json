@@ -1,0 +1,32 @@
+{
+  "rows": {
+    "Slc35b1_Pdia6": {
+      "prediction_up_seed42": 1.0,
+      "prediction_down_seed42": 0.0,
+      "effect_seed42": "Up",
+      "prediction_up_seed43": 1.0,
+      "prediction_down_seed43": 0.0,
+      "effect_seed43": "Up",
+      "prediction_up_seed44": 1.0,
+      "prediction_down_seed44": 0.0,
+      "effect_seed44": "Up",
+      "prediction_up": 1.0,
+      "prediction_down": 0.0,
+      "model_name": "gpt-oss:20b"
+    },
+    "Rprd2_9930111J21Rik2": {
+      "prediction_up_seed42": 0.0,
+      "prediction_down_seed42": 0.0,
+      "effect_seed42": "NoEffect",
+      "prediction_up_seed43": 0.0,
+      "prediction_down_seed43": 0.0,
+      "effect_seed43": "NoEffect",
+      "prediction_up_seed44": 0.0,
+      "prediction_down_seed44": 0.0,
+      "effect_seed44": "NoEffect",
+      "prediction_up": 0.0,
+      "prediction_down": 0.0,
+      "model_name": "gpt-oss:20b"
+    }
+  }
+}
